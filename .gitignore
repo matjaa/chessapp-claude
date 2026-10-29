@@ -1,0 +1,11 @@
+# Build output
+build/
+out/
+cmake-build-*/
+
+# IDE folders
+.vs/
+.vscode/*
+!.vscode/extensions.json
+*.user
+CMakeUserPresets.json

@@ -1,0 +1,10 @@
+Chess piece images ("Cburnett" set)
+
+Author: Colin M.L. Burnett (Wikimedia Commons user "Cburnett")
+Source: SVG files from the lichess.org repository, public/piece/cburnett
+        https://github.com/lichess-org/lila/tree/master/public/piece/cburnett
+License: GPLv2 or later, as listed in lichess' COPYING.md. The original
+         Wikimedia Commons files are also available under CC BY-SA 3.0,
+         GFDL and BSD.
+
+The PNG files here were rendered from those SVGs at 160 x 160 pixels.
